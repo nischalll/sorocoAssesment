@@ -210,24 +210,3 @@ dotnet test
 ### Getting Help
 
 Check the console output and log files - they usually tell you what's wrong.
-
-## Future Ideas
-
-Some things I'd like to add:
-- More metrics (network, processes)
-- More plugins (database, email, Slack)
-- Web dashboard
-- Historical data and trends
-- Alerts when things get too high/low
-
-## License
-
-This was built for a Soroco assessment. Check with them about licensing.
-
-## Questions?
-
-If you run into issues or have questions about this assessment, hit up the Soroco dev team.
-
----
-
-*Built this as part of a coding assessment. It's been fun working on it and I learned a lot about cross-platform development and system monitoring!* 
